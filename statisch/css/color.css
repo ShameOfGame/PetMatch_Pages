@@ -1,11 +1,23 @@
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f4f4f9;
-    color: #333;
-    padding: 10px;
+    font-family: 'Roboto', sans-serif; /* Modernere Schriftart */
+    line-height: 1.8; /* Etwas größerer Zeilenabstand für bessere Lesbarkeit */
+    background-color: #e3f2fd; /* Leichtes Blau für einen angenehmen Hintergrund */
+    color: #2e2e2e; /* Dunkles Grau für den Text, das weniger anstrengend für die Augen ist */
+    padding: 15px; /* Etwas mehr Innenabstand */
 }
 
 h1, h2, h3 {
-    color: #007bff;
+    color: #1a73e8; /* Klareres Blau für Überschriften */
+    font-weight: bold; /* Fettgedruckte Überschriften */
+    text-transform: capitalize; /* Erstes Wort großgeschrieben */
+}
+
+a {
+    color: #1b5e20; /* Dunkles Grün für Links */
+    text-decoration: none; /* Standardmäßig keine Unterstreichung */
+}
+
+a:hover {
+    color: #ff7043; /* Warmes Orange bei Hover */
+    text-decoration: underline; /* Unterstreichung beim Hover */
 }

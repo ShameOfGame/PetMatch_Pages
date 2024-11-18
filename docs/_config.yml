@@ -8,13 +8,13 @@ mermaid:
 callouts:
   tip:
     title: 🤍 Tipp
-    color: blue
+    color: 4caf50  #Grün für hilfreiche Tipps
   info:
     title: ℹ️ Info
-    color: blue
+    color: 2196f3 # Blau für allgemeine Informationen
   attention:
     title: ❕ Achtung
-    color: yellow
+    color: ff5722 # Orange für Warnungen
   download:
     title: 💾 Download
-    color: grey-dk
+    color: 607d8b # Dunkelgrau für Downloads
