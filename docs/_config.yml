@@ -7,14 +7,14 @@ mermaid:
   version: "10.5.0" # Optional, für Diagramme
 callouts:
   tip:
-    title: 🤍 Tipp
-    color: 4caf50  #Grün für hilfreiche Tipps
+    title: "🤍 Tipp"
+    color: "#4caf50"  # Grün für hilfreiche Tipps
   info:
-    title: ℹ️ Info
-    color: 2196f3 # Blau für allgemeine Informationen
+    title: "ℹ️ Info"
+    color: "#2196f3" # Blau für allgemeine Informationen
   attention:
-    title: ❕ Achtung
-    color: ff5722 # Orange für Warnungen
+    title: "❕ Achtung"
+    color: "#ff5722" # Orange für Warnungen
   download:
-    title: 💾 Download
-    color: 607d8b # Dunkelgrau für Downloads
+    title: "💾 Download"
+    color: "#607d8b" # Dunkelgrau für Downloads
